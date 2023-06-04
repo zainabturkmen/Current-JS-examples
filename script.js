@@ -317,7 +317,6 @@ for (let i = 0; i < bo.length; i++){
     if (i===5) break
     console.log(ele)
 }
-
 function printGreeting(numbi){ 
     if(numbi > 4) return 
     console.log(numbi)
