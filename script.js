@@ -318,12 +318,12 @@ for (let i = 0; i < bo.length; i++){
     console.log(ele)
 }
 
-function printGreeting(){
-    console.log('hghghgh')
-    printGreeting()
-}
+// function printGreeting(){
+//     console.log('hghghgh')
+//     printGreeting()
+// }
 
-// printGreeting()
+// // printGreeting()
 
 
 
