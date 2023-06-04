@@ -322,10 +322,10 @@ function printGreeting(numbi){
     if(numbi > 10) return 
     console.log(numbi)
     printGreeting(numbi + 1)
-    console.log()
+    console.log(numbi)
 }
 
-// printGreeting()
+printGreeting(5)
 
 
 
