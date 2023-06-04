@@ -319,10 +319,10 @@ for (let i = 0; i < bo.length; i++){
 }
 
 function printGreeting(numbi){ 
-    if(numbi > 10) return 
+    if(numbi > 4) return 
     console.log(numbi)
     printGreeting(numbi + 1)
-    // console.log(numbi)
+    console.log('I am here')
 }
 
 printGreeting(1)
