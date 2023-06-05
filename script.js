@@ -300,7 +300,6 @@ if(arry.length === 0){
     default: 
         console.log('try again')   
  }
-
  const areYouOk = false
  let answer = areYouOk ? "Fine": "heheh"
  console.log(answer)
