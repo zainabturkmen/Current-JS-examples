@@ -310,13 +310,6 @@ if(arry.length === 0){
 //     console.log('i hate sawing clothes')
 
 
-let bo = [1,2,3,4,5,6,7,8,9,10]
- 
-for (let i = 0; i < bo.length; i++){
-    const ele = bo[i]
-    if (i===5) break
-    console.log(ele)
-}
 function printGreeting(numbi){ 
     if(numbi > 4) return 
     console.log(numbi)
