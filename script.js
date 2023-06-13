@@ -250,7 +250,7 @@ btn.forEach(button => {
     button.addEventListener('click', ()=> {
         console.log('click hehehe')
     })
-})
+});
 
 const GrandPa = document.getElementById('GrandParent')
 
