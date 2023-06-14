@@ -284,8 +284,6 @@ if(arry.length === 0){
     console.log("large")
 }
 
-
-
  const areYouOk = true
 
  let answer = ""
