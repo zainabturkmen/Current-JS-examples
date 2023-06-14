@@ -294,8 +294,8 @@ if(arry.length === 0){
     case 2:
        console.log("it is small ")  
     break
-    case 3:
     case 4:
+    case 5:
         console.log("it is medium")  
     default: 
         console.log('try again')   
