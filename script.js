@@ -284,9 +284,9 @@ if(arry.length === 0){
     console.log("large")
 }
 
- const areYouOk = true
+ const areYouOk = false
 
- let answer = areYouOk ? "Fine"
+ let answer = areYouOk ? "Fine": "heheh"
 
 //  if (areYouOk){
 //     answer = "Fine"
