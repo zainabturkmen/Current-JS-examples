@@ -314,8 +314,3 @@ if(arry.length === 0){
 for (let i = 0; i < -1; i++){
     console.log("hihihhiihihihii")
 }
-
-
-
-
-
