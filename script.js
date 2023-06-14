@@ -285,12 +285,11 @@ if(arry.length === 0){
 }
 
  const areYouOk = false
-
  let answer = areYouOk ? "Fine": "heheh"
+ console.log(answer)
 
 //  if (areYouOk){
 //     answer = "Fine"
 //  } else{
 //     answer = 'it is ok heheh'
 //  }
- console.log(answer)
