@@ -310,3 +310,7 @@ if(arry.length === 0){
 //  } else{
 //     answer = 'it is ok heheh'
 //  }
+
+for (let i = 0; i < 5; i++){
+    console.log("hihihhiihihihii")
+}
