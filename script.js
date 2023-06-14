@@ -286,4 +286,12 @@ if(arry.length === 0){
 
 
 
- 
+ const areYouOk = true
+
+ let answer = ""
+
+ if (areYouOk){
+    answer = "Fine"
+ } else{
+    console.log('it is ok')
+ }
