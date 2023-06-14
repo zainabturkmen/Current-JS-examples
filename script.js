@@ -294,4 +294,5 @@ if(arry.length === 0){
     answer = 'it is ok heheh'
  }
 
- 
+
+ console.log(answer)
