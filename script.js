@@ -285,13 +285,21 @@ if(arry.length === 0){
 }
  //switch statement
 
- switch (arry){
+ const numnum = 1:
+ switch (numnum){
     case '0':
-        console.log("empty")
-    case "5":
-       console.log("small")  
-    case "10":
-        console.log("medium")         
+        console.log("it is zero")
+    break
+    case "1":
+    case "2":
+       console.log("it is small")  
+    break
+    case "3":
+    case "4":
+        console.log("it is medium")  
+    default: 
+        console.log('try again')   
+        
  }
 
 
