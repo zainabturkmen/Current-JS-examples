@@ -310,6 +310,3 @@ if(arry.length === 0){
 //  } else{
 //     answer = 'it is ok heheh'
 //  }
-
-
-
