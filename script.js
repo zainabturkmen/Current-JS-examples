@@ -291,5 +291,5 @@ if(arry.length === 0){
  if (areYouOk){
     answer = "Fine"
  } else{
-    console.log('it is ok')
+    console.log('it is ok heheh')
  }
