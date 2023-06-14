@@ -283,6 +283,13 @@ if(arry.length === 0){
 } else {
     console.log("large")
 }
+ //switch statement
+
+ 
+
+
+
+
 
  const areYouOk = false
  let answer = areYouOk ? "Fine": "heheh"
