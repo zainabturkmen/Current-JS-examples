@@ -300,11 +300,6 @@ if(arry.length === 0){
     default: 
         console.log('try again')   
  }
- 
-
-
-
-
 
 
 
