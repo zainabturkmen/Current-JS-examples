@@ -301,7 +301,6 @@ if(arry.length === 0){
         console.log('try again')   
  }
 
-
 function printGreeting(numbi){ 
     if(numbi > 4) return 
     console.log(numbi)
