@@ -307,5 +307,5 @@ function printGreeting(numbi){
     printGreeting(numbi + 1)
     console.log('I am here')
 }
-printGreeting
+printGreeting()
 
