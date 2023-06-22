@@ -308,4 +308,3 @@ function printGreeting(numbi){
     console.log('I am here')
 }
 printGreeting()
-
