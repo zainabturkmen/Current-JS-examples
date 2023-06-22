@@ -309,4 +309,3 @@ function printGreeting(numbi){
 }
 
 printGreeting()
-
