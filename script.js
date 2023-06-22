@@ -300,7 +300,7 @@ if(arry.length === 0){
     default: 
         console.log('try again')   
  }
- 
+
 function printGreeting(numbi){ 
     if(numbi > 4) return 
     console.log(numbi)
@@ -308,3 +308,4 @@ function printGreeting(numbi){
     console.log('I am here')
 }
 printGreeting(1)
+
