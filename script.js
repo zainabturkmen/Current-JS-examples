@@ -206,5 +206,3 @@ let vi = V.find(numb =>{
  
 console.log(vi)
 
-
-
