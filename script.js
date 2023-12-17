@@ -1,5 +1,6 @@
-function name(myName){
-    console.log(myName)
+function sum(a, b){
+    return (a + b);
 }
 
-name('Durdaneh')
+let a = sum(4, 5)
+console.log(a)
