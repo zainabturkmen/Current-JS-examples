@@ -1,1 +1,1 @@
-console.log('nini')
+console.log(hi)
