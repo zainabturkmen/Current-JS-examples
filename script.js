@@ -1,5 +1,5 @@
 function sum(name){
-    return 'hello ' +  name;
+    return   name;
 }
 
 let a = sum('zainab')
