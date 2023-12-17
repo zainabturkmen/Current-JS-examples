@@ -3,5 +3,5 @@ function sum(name){
 }
 
 let a = sum('zainab')
-// let b = sum('zainab', a)
-console.log(a)
+let b = sum('nini', a)
+console.log(b)
