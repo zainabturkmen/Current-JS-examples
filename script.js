@@ -1,6 +1,7 @@
-function sum(a, b){
-    return (a + b);
+function sum(name){
+    return 'hello ' +  name;
 }
 
-let a = sum(4, 5)
+let a = sum('zainab')
+// let b = sum('zainab', a)
 console.log(a)
