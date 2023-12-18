@@ -1,6 +1,11 @@
-function sum(name){
-    return  'hello ' + name;
+
+
+function namei(variable){
+    console.log(variable)
 }
 
-let a = sum('zainab')
-console.log(a)
+function myName(name, callback){
+   callback ('hello '  + name)
+}
+
+myName('zainab', namei)
