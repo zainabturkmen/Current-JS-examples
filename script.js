@@ -21,3 +21,6 @@ console.log('Ibrahimim nar et yerim')
 }
 
 Mevlam()
+
+// Hoisting is not exist in Variables and arrow functions because 
+// arrow functions are also based on variables. But they are exist in functions.
