@@ -1,7 +1,5 @@
-
-
-let printName = name => {
-    return name
+let namei = name => {
+    return 'Ya ' + name;
 }
 
-console.log(printName('xxxx'))
+console.log(namei('Rabbim'))
