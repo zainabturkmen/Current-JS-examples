@@ -1,13 +1,7 @@
 
 
-
-function numbers(a, b){
-      a + b
+let printName = name => {
+    return name
 }
 
-function result(sum){
-    sum(1 , 5)
-}
-
-
-numbers(result)
+console.log(printName('xxxx'))
