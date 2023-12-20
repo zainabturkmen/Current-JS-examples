@@ -1,5 +1,5 @@
 let namei = name => {
-    return 'Ya ' + name;
+    return `Ya ${name}`;
 }
 
 console.log(namei('Rabbim'))
