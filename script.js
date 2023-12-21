@@ -31,14 +31,16 @@ function outerFunction(){
 
     let Greeting = 'Hey there i am learning the concept of Colsures';
 
-    return function innerFunction(){
+     function innerFunction(){
         console.log(Greeting)
     }
+
+    return innerFunction;
 
 }
 
 let result = outerFunction()
 
-result;
+result();
 
 
