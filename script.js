@@ -68,9 +68,15 @@ function counter(){
         console.log('Current count:' ,count)
     }
 
-    return increment;
-    return decrement;
+    return {
+        increment,
+        decrement
+    };
 }
+
+const myCounter = counter();
+myCounter.increment();
+myCounter.decrement(); 
 
 
 
