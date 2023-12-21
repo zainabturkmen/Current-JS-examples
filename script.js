@@ -34,13 +34,22 @@ function outerFunction(){
      function innerFunction(){
         console.log(Greeting)
     }
-
     return innerFunction;
-
 }
 
 let result = outerFunction()
-
 result();
+
+// Another example
+
+let a = 1
+
+function number(){
+    return function innerNumber(){
+       console.log(a)
+    }
+}
+let resutiiii = number()
+resutiiii()
 
 
