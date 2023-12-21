@@ -25,7 +25,7 @@ Mevlam()
 // Hoisting is not exist in Variables and arrow functions because 
 // arrow functions are also based on variables. But they are exist in functions.
 
-// Closures
+// Closures, first example
 
 function outerFunction(){
 
@@ -40,7 +40,7 @@ function outerFunction(){
 let result = outerFunction()
 result();
 
-// Another example
+// second example
 
 let a = 1
 
@@ -50,6 +50,11 @@ function number(){
     }
 }
 let resutiiii = number()
+
 resutiiii()
+
+// Third example
+
+
 
 
