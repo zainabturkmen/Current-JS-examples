@@ -91,8 +91,6 @@ function localScop(){
 
 localScop();
 
-console.log(localScop)
-
 
 
 
