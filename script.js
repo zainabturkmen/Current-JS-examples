@@ -55,6 +55,24 @@ resutiiii()
 
 // Third example
 
+function counter(){
+    let count = 0;
+
+    function increment(){
+        count++;
+        console.log('Current count:' ,count)
+    }
+
+    function decrement(){
+        count--;
+        console.log('Current count:' ,count)
+    }
+
+    return increment;
+    return decrement;
+}
+
+
 
 
 
