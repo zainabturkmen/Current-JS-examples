@@ -78,7 +78,20 @@ const myCounter = counter();
 myCounter.increment();
 myCounter.decrement(); 
 
-//
+// Scoping first example
+
+let globalVariable = 'I am a global Variable'
+
+function localScop(){
+    let localVariable = 'i am a local variable'
+
+    console.log(globalVariable)
+    console.log(localVariable)
+}
+
+localScop();
+
+console.log(localScop)
 
 
 
