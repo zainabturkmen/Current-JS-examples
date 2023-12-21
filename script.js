@@ -28,7 +28,17 @@ Mevlam()
 // Closures
 
 function outerFunction(){
-    
+
+    let Greeting = 'Hey there i am learning the concept of Colsures';
+
+    return function innerFunction(){
+        console.log(Greeting)
+    }
+
 }
+
+let result = outerFunction()
+
+result;
 
 
