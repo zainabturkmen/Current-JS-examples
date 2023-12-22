@@ -102,7 +102,7 @@ console.log(amIhoisting)
 // let amIhoisting = 'I am not hoisting because i am a variable and variables never be hoisted';
    
 iAmHoisting();       
- 
+  
 function iAmHoisting(){
     var hoist = 'hey i am hoisting because i am function'
     console.log(hoist)
