@@ -90,7 +90,7 @@ function localScop(){
 }
  
 localScop(); 
-
+ 
 // Hoisting first example
 
 let amIhoisting = 'I am not hoisting because i am a variable and variables never be hoisted';
