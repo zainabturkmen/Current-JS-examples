@@ -98,7 +98,7 @@ console.log(amIhoisting)
     
 //hoisting state      
 
-// console.log(amIhoisting) 
+// console.log(amIhoisting)  
 // let amIhoisting = 'I am not hoisting because i am a variable and variables never be hoisted';
      
 iAmHoisting();               
