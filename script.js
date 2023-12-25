@@ -94,7 +94,7 @@ localScop();
 // Hoisting first example 
 
 let amIhoisting = 'I am not hoisting because i am a variable and variables never be hoisted';
-console.log(amIhoisting)     
+console.log(amIhoisting)       
        
 //hoisting state    
    
