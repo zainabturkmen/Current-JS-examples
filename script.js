@@ -88,6 +88,7 @@ function localScop(){
     console.log(globalVariable)
     console.log(localVariable)
 }
+
  
 localScop();          
       
