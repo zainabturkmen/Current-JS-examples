@@ -89,7 +89,7 @@ function localScop(){
     console.log(localVariable)
 }
  
-localScop();  
+localScop();    
    
 // Hoisting first example 
 
