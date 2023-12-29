@@ -120,7 +120,7 @@ noFunc();
  
 let abc = 2
 
-console.log(a.toString())
+console.log(abc.toString())
 
 
 
