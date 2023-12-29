@@ -133,8 +133,8 @@ console.log( b === bb)
 
 const ai = [1,2,3,4,5]
 console.log(ai)
+ai.push(6)
 
-a.push(6)
 
 
 
