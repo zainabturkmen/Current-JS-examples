@@ -113,7 +113,7 @@ function nini(){
     return function bibio(){
         console.log('hey hou are u')
     }   
-}
+} 
 
 let noFunc = nini();
 noFunc();
