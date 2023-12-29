@@ -124,6 +124,11 @@ let abc = 2
 let c = "4"
 console.log(c + abc)
 
+let b = 2
+let bb = '2'
+
+console.log( b === bb)
+
 
 
 
