@@ -118,10 +118,10 @@ function nini(){
 let noFunc = nini();
 noFunc();
  
+
+// Coercion, Converting data types to another data types
 let abc = 2
-
 let c = "4"
-
 console.log(c + abc)
 
 
