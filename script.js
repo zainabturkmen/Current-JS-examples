@@ -136,7 +136,7 @@ const ai = [1,2,3,4,5]
 console.log(ai)
 
 const abcde = ["a","b","c","d","e"]
-console.log(abcde[3])
+console.log(abcde[2])
 
 
 
