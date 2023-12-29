@@ -122,7 +122,7 @@ let abc = 2
 
 let c = "4"
 
-console.log(parseInt.a + abc)
+console.log(c + abc)
 
 
 
