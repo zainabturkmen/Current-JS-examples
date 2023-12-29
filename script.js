@@ -147,6 +147,7 @@ const num = [
 console.log(num[0][3])
 console.log(num[1][2])
 console.log(num[2][0])
+console.log(num.length)
 
 
 
