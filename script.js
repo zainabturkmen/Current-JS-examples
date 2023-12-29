@@ -120,7 +120,7 @@ noFunc();
 
 let abc = 2
 
-console.log(typeof parseFloat(a))
+console.log(a.toString())
 
 
 
