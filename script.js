@@ -96,9 +96,7 @@ localScop();
 
 let amIhoisting = 'I am not hoisting because i am a variable and variables never be hoisted';
 console.log(amIhoisting)       
-       
-//hoisting state    
-
+    
    
 // console.log(amIhoisting)      
 // let amIhoisting = 'I am not hoisting because i am a variable and variables never be hoisted';
@@ -110,7 +108,15 @@ function iAmHoisting(){
     console.log(hoist)    
 }    
 
+//Cloures
+function nini(){
+    return function bibio(){
+        console.log('hey hou are u')
+    }
+}
 
+let noFunc = nini();
+noFunc();
 
 
 
