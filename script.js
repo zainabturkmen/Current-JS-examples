@@ -135,7 +135,7 @@ const ai = [1,2,3,4,5]
  ai.push('hi')
 console.log(ai)
 
-const abcde = [a,b,c,d,e]
+const abcde = ["a","b","c","d","e"]
 console.log(abcde[4])
 
 
