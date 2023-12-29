@@ -120,7 +120,9 @@ noFunc();
  
 let abc = 2
 
-console.log(typeof abc.toString())
+let c = "4"
+
+console.log(parseInt.a + abc)
 
 
 
