@@ -132,7 +132,7 @@ console.log( b === bb)
 //Arrys
 
 const ai = [1,2,3,4,5]
- ai.pop()
+ ai.push(2,5)
 console.log(ai)
 
 
