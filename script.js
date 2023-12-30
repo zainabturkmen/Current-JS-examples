@@ -199,8 +199,8 @@ let V = [1,2,3,4]
 
 // console.log(V)
 
-let vi = V.map(numb =>{
-    return numb * 2
+let vi = V.filter(numb =>{
+    return numb > 2
 })
 
 console.log(vi)
