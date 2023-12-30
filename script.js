@@ -198,7 +198,7 @@ console.log(me)
 let V = [1,2,3,4]
 
 V.forEach(numb =>{
-    console.log(V)
+    console.log(numb)
 })
 
 
