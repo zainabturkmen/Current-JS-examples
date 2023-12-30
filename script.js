@@ -188,6 +188,12 @@ D.push(3)
 
 console.log(C)
 
+const me = {
+    Name: Zainu
+}
+
+console.log()
+
 
 
 
