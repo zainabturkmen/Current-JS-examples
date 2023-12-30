@@ -150,9 +150,33 @@ console.log(num[2][0])
 console.log(num.length)
 
 
+//Objects
 
+const person = {
+    name: "Zainab",
+    age: 25,
+    favoriteColor: "red",
+    sayHi(){
+        console.log('hello')
+    }
+}
 
+person.sayHi()
+console.log(person)
 
+//second example
+
+const book = {
+    title : "Bible",
+    Auther: {
+        name: "Dudi",
+        age: 43
+    }
+}
+
+book.Auther.age = "NEW gee"
+
+console.log(book.Auther.age)
 
 
 
