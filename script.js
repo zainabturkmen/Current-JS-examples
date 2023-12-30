@@ -197,9 +197,9 @@ console.log(me)
 //Methods
 let V = [1,2,3,4]
 
-console.log(V)
+// console.log(V)
 
-V.map(numb =>{
+let vi = V.map(numb =>{
     return numb * 2
 })
 
