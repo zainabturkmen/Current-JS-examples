@@ -197,6 +197,8 @@ console.log(me)
 //Methods
 let V = [1,2,3,4]
 
+console.log(V)
+
 V.forEach(numb =>{
     console.log(numb)
 })
