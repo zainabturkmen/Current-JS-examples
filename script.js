@@ -203,6 +203,6 @@ let vi = V.map(numb =>{
     return numb * 2
 })
 
-console.log(V)
+console.log(vi)
 
 
