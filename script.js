@@ -194,6 +194,13 @@ const me = {
 me.work = "developer"
 console.log(me)
 
+//Methods
+let V = [1,2,3,4]
+
+V.forEach(numb =>{
+    console.log(V)
+})
+
 
 
 
