@@ -199,8 +199,8 @@ let V = [1,2,3,4]
 
 console.log(V)
 
-V.forEach(numb =>{
-    console.log(numb)
+V.map(numb =>{
+    console.log(numb * 2)
 })
 
 
