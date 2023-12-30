@@ -200,7 +200,9 @@ let V = [1,2,3,4]
 console.log(V)
 
 V.map(numb =>{
-    console.log(numb * 2)
+    return numb * 2
 })
+
+console.log(V)
 
 
