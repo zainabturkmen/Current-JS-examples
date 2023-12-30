@@ -192,7 +192,7 @@ const me = {
     Name: Zainu
 }
 
-console.log()
+console.log(me)
 
 
 
