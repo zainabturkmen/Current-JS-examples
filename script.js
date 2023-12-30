@@ -178,6 +178,14 @@ book.Auther.age = "NEW gee"
 
 console.log(book.Auther.age)
 
+let A = 10
+let B = "hi"
+let C = [1,2]
+let D = C
+D.push(3)
+
+console.log(C)
+
 
 
 
