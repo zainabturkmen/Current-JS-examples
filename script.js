@@ -190,11 +190,10 @@ console.log(C)
 
 const me = {
     Name: "Zainu"
-    
+
 }
 me.work = "developer"
 console.log(me)
-
 
 //Methods
 let V = [1,2,3,4,]
