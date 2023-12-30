@@ -192,6 +192,8 @@ const me = {
     Name: "Zainu"
 }
 
+me.work = "developer"
+
 console.log(me)
 
 
