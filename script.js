@@ -199,7 +199,7 @@ let V = [1,2,3,4,]
 
 // console.log(V)
 
-let vi = V.filter(numb =>{
+let vi = V.find(numb =>{
     return numb > 2
 })
 
