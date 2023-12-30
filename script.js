@@ -189,7 +189,7 @@ D.push(3)
 console.log(C)
 
 const me = {
-    Name: Zainu
+    Name: "Zainu"
 }
 
 console.log(me)
