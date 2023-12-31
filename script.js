@@ -244,4 +244,5 @@ console.log(resultOfUser)
 let dicEl = document.getElementById("div-id")
 dicEl.style.color = "red"
 
-const btn = document.querySelector()
+const btn = document.querySelector('[click-me]')
+
