@@ -233,10 +233,10 @@ console.log(`${firstName} ${lastName}`)
 
 //This and new
 function User(name, age){
-    return {name, age, human}
+    return {name, age}
 }
 
-const resultOfUser = User("Zainu", 21, true)
+const resultOfUser = User("Zainu", 21)
 console.log(resultOfUser)
 
 
