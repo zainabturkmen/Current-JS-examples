@@ -255,5 +255,12 @@ btn.addEventListener("click", peintme)
 
 const link = document.querySelector('[linki]')
 
+link.addEventListener('click', (e) => {
+    e.preventDefault()
+
+    console.log("Perevent defult")
+   
+})
+
 
 
