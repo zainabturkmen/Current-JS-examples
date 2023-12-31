@@ -246,3 +246,7 @@ dicEl.style.color = "red"
 
 const btn = document.querySelector('[click-me]')
 
+btn.addEventListener('click', () => {
+    console.log('click me')
+})
+
