@@ -206,4 +206,20 @@ let vi = V.find(numb =>{
  
 console.log(vi)
 
+//reduce
 
+let items = [
+    {price: 10},
+    {price: 20},
+    {price: 14},
+    {price: 1},
+    {price: 1}
+]
+
+
+const s = items.reduce((sum, myNumbers) => {
+    return sum + myNumbers
+
+}, 0)
+
+console.log()
