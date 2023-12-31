@@ -238,4 +238,9 @@ function User(name, age){
 
 const resultOfUser = new User("Zainu", 21)
 console.log(resultOfUser)
+
+
+
+const dicEl = document.getElementById("div-id")
   
+dicEl.style.color = "blue"
