@@ -222,4 +222,4 @@ const s = items.reduce((sum, myNumbers) => {
 
 }, 0)
 
-console.log()
+console.log(s)
