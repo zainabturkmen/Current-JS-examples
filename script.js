@@ -218,7 +218,7 @@ let items = [
 
 
 const s = items.reduce((sum, myNumbers) => {
-    return sum + myNumbers
+    return sum + myNumbers.price
 
 }, 0)
 
