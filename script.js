@@ -239,6 +239,9 @@ function User(name, age){
 const resultOfUser = User("Zainu", 21)
 console.log(resultOfUser)
 
+const date = new Date()
+console.log(date)
+
 
 
 
