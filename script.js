@@ -226,7 +226,7 @@ console.log(s)
 
 //template strings, Backtickts
 
-let firstName = 'Zainu'
+let firstName = 'Zainu' 
 let lastName = "Turkmen"
 
 console.log(`${firstName} ${lastName}`)
