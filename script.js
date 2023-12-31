@@ -249,7 +249,8 @@ const btn = document.querySelector("[click-me]")
 function peintme(){
     console.log('hey just click me')
 }
-btn.addEventListener("click", peintme)
 
+btn.addEventListener("click", peintme)
+// btn.removeEventListener("click", peintme)
 
 
