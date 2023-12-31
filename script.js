@@ -231,6 +231,15 @@ let lastName = "Turkmen"
 
 console.log(`${firstName} ${lastName}`)
 
+//This and new
+function User(name, age){
+    return {name, age, human}
+}
+
+const resultOfUser = User("Zainu", 21, true)
+console.log(resultOfUser)
+
+
 
 
 
