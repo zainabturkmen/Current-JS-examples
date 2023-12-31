@@ -243,4 +243,4 @@ console.log(resultOfUser)
 
 const dicEl = document.getElementById("div-id")
   
-dicEl.style.color = "blue"
+dicEl.style.color = "red"
