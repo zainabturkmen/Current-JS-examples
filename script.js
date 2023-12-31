@@ -240,7 +240,7 @@ const resultOfUser = User("Zainu", 21)
 console.log(resultOfUser)
 
 const date = new Date()
-console.log(date)
+console.log(date.getUTCDate())
 
 
 
