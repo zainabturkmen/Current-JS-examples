@@ -244,9 +244,9 @@ console.log(resultOfUser)
 let dicEl = document.getElementById("div-id")
 dicEl.style.color = "red"
 
-const btn = document.querySelector('[click-me]')
+const btn = document.querySelector("[click-me]")
 
-btn.addEventListener('click', () => {
+btn.addEventListener("click", () => {
     console.log('click me')
 })
 
