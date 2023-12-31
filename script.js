@@ -223,3 +223,16 @@ const s = items.reduce((sum, myNumbers) => {
 }, 0)
 
 console.log(s)
+
+//template strings, Backtickts
+
+let firstName = 'Zainu'
+let lastName = "Turkmen"
+
+console.log(`${firstName}${lastName}`)
+
+
+
+
+
+
