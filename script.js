@@ -233,14 +233,13 @@ console.log(`${firstName} ${lastName}`)
 
 //This and new
 function User(name, age){
-    return {name:name, age: age, human: true}
+    return {name: name, age: age, human: true}
 }
 
 const resultOfUser = new User("Zainu", 21)
 console.log(resultOfUser)
 
-const date = new Date()
-console.log(date.getUTCDate())
+
 
 
 
