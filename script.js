@@ -241,5 +241,5 @@ console.log(resultOfUser)
 
 
 
-const dicEl = document.getElementById("div-id")
+let dicEl = document.getElementById("div-id")
 dicEl.style.color = "red"
