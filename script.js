@@ -239,12 +239,3 @@ function User(name, age){
 const resultOfUser = new User("Zainu", 21)
 console.log(resultOfUser)
 
-
-
-
-
-
-
-
-
-
