@@ -229,7 +229,7 @@ console.log(s)
 let firstName = 'Zainu'
 let lastName = "Turkmen"
 
-console.log(`${firstName}${lastName}`)
+console.log(`${firstName} ${lastName}`)
 
 
 
