@@ -253,4 +253,7 @@ function peintme(){
 btn.addEventListener("click", peintme)
 // btn.removeEventListener("click", peintme)
 
+const link = document.querySelector('[linki]')
+
+
 
