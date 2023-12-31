@@ -250,7 +250,5 @@ btn.addEventListener("click", () => {
     console.log("click me")
 })
 
-btn.addEventListener("click", () => {
-    console.log("click")
-})
+
 
