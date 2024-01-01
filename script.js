@@ -246,9 +246,11 @@ dicEl.style.color = "red"
 
 const btn = document.querySelectorAll("button")
 
-function peintme(){
-    console.log('hey just click me')
-}
+btn.forEach(button => {
+    button.addEventListener('click', ()=> {
+        
+    })
+})
 
 // btn.removeEventListener("click", peintme)
 
