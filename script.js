@@ -259,6 +259,7 @@ link.addEventListener('click', (e) => {
     e.preventDefault()
 
     console.log("Perevent defult")
+    
    
 })
 
