@@ -252,6 +252,7 @@ btn.forEach(button => {
     })
 })
 
+const GrandPa = document.getElementById('[]')
 
 
 
