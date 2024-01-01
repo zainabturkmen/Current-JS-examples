@@ -251,16 +251,7 @@ btn.forEach(button => {
         console.log('click hehehe')
     })
 })
-btn.forEach(button => {
-    button.addEventListener('click', ()=> {
-        console.log('click hehehe')
-    })
-})
-btn.forEach(button => {
-    button.addEventListener('click', ()=> {
-        console.log('click hehehe')
-    })
-})
+
 
 
 
