@@ -252,17 +252,7 @@ btn.forEach(button => {
     })
 })
 
-// btn.removeEventListener("click", peintme)
 
-const link = document.querySelectorAll('[linki]')
-
-link.addEventListener('click', (e) => {
-    e.preventDefault()
-
-    console.log("Perevent defult")
-
-   
-})
 
 
 
