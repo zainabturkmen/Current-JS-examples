@@ -252,7 +252,7 @@ btn.forEach(button => {
     })
 })
 
-const GrandPa = document.getElementById('[]')
+const GrandPa = document.getElementById('[GrandParent]')
 
 
 
