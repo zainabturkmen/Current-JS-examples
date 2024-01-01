@@ -252,10 +252,9 @@ btn.forEach(button => {
     })
 })
 
-const GrandPa = document.getElementById('[GrandParent]')
+const GrandPa = document.getElementById('GrandParent')
 
-GrandPa.style.color = 'red'
-
+ GrandPa.children[0].style.color = 'blue'
 
 
 
