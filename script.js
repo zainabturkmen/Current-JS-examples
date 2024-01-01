@@ -244,7 +244,7 @@ console.log(resultOfUser)
 let dicEl = document.getElementById("div-id")
 dicEl.style.color = "red"
 
-const btn = document.querySelector("[click-me]")
+const btn = document.querySelectorAll("button")
 
 function peintme(){
     console.log('hey just click me')
@@ -252,7 +252,7 @@ function peintme(){
 
 // btn.removeEventListener("click", peintme)
 
-const link = document.querySelector('[linki]')
+const link = document.querySelectorAll('[linki]')
 
 link.addEventListener('click', (e) => {
     e.preventDefault()
