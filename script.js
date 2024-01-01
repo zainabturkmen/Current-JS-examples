@@ -250,7 +250,6 @@ function peintme(){
     console.log('hey just click me')
 }
 
-btn.addEventListener("click", peintme)
 // btn.removeEventListener("click", peintme)
 
 const link = document.querySelector('[linki]')
@@ -259,7 +258,7 @@ link.addEventListener('click', (e) => {
     e.preventDefault()
 
     console.log("Perevent defult")
-    
+
    
 })
 
