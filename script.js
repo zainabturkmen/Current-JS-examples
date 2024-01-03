@@ -258,7 +258,7 @@ const GrandPa = document.getElementById('GrandParent')
 
  let isLogIn = false
 
- if(isLogIn){
+ if(2 === "2"){
     console.log("i AM LOG In")
  }else{
     console.log("please log in")
