@@ -242,7 +242,6 @@ console.log(resultOfUser)
 
 
 let dicEl = document.getElementById("div-id")
-dicEl.style.color = "red"
 
 const btn = document.querySelectorAll("button")
 
