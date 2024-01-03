@@ -263,7 +263,6 @@ const GrandPa = document.getElementById('GrandParent')
     console.log(false)
  }     
  
- 
  const peice = 10
 
  if (peice < 10){
