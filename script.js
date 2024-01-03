@@ -277,6 +277,16 @@ const GrandPa = document.getElementById('GrandParent')
     console.log('hahahahah')
  }
 
- 
 
+const arry = [1,2,3,4,5];
+
+if(arry.length === ""){
+    console.log("empty")
+} else if(arry.length < 5){
+    console.log("small")
+} else if(arry.length < 10){
+    console.log("medium")
+} else {
+    console.log("large")
+}
  
