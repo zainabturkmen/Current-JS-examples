@@ -258,9 +258,9 @@ const GrandPa = document.getElementById('GrandParent')
 
  let isLogIn = false
 
- if(01){
+ if(1){
     console.log(true)
  }else{
     console.log(false)
- }
+ }      
  
