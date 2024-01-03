@@ -250,8 +250,6 @@ btn.forEach(button => {
     })
 });
 
-const GrandPa = document.getElementById('GrandParent')
-
 
 
  let isLogIn = false
