@@ -250,7 +250,7 @@ btn.forEach(button => {
     })
 });
 
-//
+// if/ else if / else statements
 
  let isLogIn = false
 
