@@ -240,7 +240,6 @@ const resultOfUser = new User("Zainu", 21)
 console.log(resultOfUser)
 
 
-
 let dicEl = document.getElementById("div-id")
 
 const btn = document.querySelectorAll("button")
