@@ -280,7 +280,7 @@ const GrandPa = document.getElementById('GrandParent')
 
 const arry = [1,2,3,4,5];
 
-if(arry.length === ""){
+if(arry.length === 0){
     console.log("empty")
 } else if(arry.length < 5){
     console.log("small")
