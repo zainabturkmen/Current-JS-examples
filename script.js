@@ -285,7 +285,16 @@ if(arry.length === 0){
 }
  //switch statement
 
- 
+ switch (arry){
+    case '0':
+        console.log("empty")
+    case "5":
+       console.log("small")  
+    case "10":
+        console.log("medium")         
+ }
+
+
 
 
 
