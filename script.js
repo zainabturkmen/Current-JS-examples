@@ -275,7 +275,7 @@ const GrandPa = document.getElementById('GrandParent')
     console.log('it is ok')
  } else{
     console.log('hahahahah')
- }
+ } 
 
 const arry = [1,2,3,4,5];
 
