@@ -271,10 +271,10 @@ const GrandPa = document.getElementById('GrandParent')
     console.log('so cheap')
  } else if (peice < 5){
     console.log('hehehe also cheap')
- } else if(peice = 10){
+ } else if(peice == 10){
     console.log('it is ok')
  } else{
     console.log('hahahahah')
  }
- 
+
  
