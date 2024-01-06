@@ -312,6 +312,3 @@ if(arry.length === 0){
 
 let bo = ['a', 'b', 'c', 'm']
 
-bo.forEach(nu => {
-    console.log(nu)
-})
