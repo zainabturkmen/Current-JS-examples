@@ -309,5 +309,9 @@ if(arry.length === 0){
 //  for (let i = 0; i < 10; i++){
 //     console.log('i hate sawing clothes')
 //  
-
+(
 let bo = ['a', 'b', 'c', 'm']
+
+bo.forEach(() => {
+
+})
