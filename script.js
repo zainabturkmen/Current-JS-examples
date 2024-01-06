@@ -306,6 +306,8 @@ if(arry.length === 0){
  console.log(answer)
 
 
- for (let i = 0; i < 10; i++){
-    console.log('i hate sawing clothes')
- }
+//  for (let i = 0; i < 10; i++){
+//     console.log('i hate sawing clothes')
+//  
+
+let bo = ['a', 'b', 'c', 'm']
