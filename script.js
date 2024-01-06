@@ -316,5 +316,4 @@ for (let i = 0; i < bo.length; i++){
     const ele = bo[i]
     if (i===5) break
     console.log(ele)
-
 }
