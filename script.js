@@ -310,5 +310,5 @@ if(arry.length === 0){
 //     console.log('i hate sawing clothes')
 //  
 
-let bo = ['a', 'b', 'c', 'm']
+let bo = []
 
